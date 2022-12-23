@@ -1,6 +1,6 @@
 ### Olá, me chamo Kainã Bermudes.
 
-- Cursando Desenvolvimento Full Stack Estácio de Sá. 
+- Cursando Desenvolvimento Full Stack na Estácio de Sá. 
 
 <div align="center">
   <a href="https://github.com/devmeester">
